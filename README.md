@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodDevv&show_icons=true&chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodDevv&show_icons=true&calm)
